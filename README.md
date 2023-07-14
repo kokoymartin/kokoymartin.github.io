@@ -40,7 +40,7 @@
   
   <main>
     <h2>About Me</h2>
-    <p>Hello, I'm John Doe. I'm a web developer passionate about creating amazing websites.</p>
+    <p>Hello, I'm Davy Jones. I'm a web developer passionate about creating amazing websites.</p>
     
     <h2>My Projects</h2>
     <ul>
